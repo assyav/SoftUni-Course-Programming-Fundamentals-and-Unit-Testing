@@ -1,5 +1,4 @@
-Programming Fundamentals with C# a
-
+Programming Fundamentals with C#
 
 01. Simple Commands - Exercise
 02. Simple Calculations

@@ -1,4 +1,4 @@
-Programming Fundamentals with C# and Unit Testing
+## Programming Fundamentals with C# and Unit Testing
 
 01. Simple Commands - Exercise
 02. Simple Calculations

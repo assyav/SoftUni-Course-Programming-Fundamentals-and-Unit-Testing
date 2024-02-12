@@ -1,16 +1,17 @@
 ## Programming Fundamentals with C# and Unit Testing
+<ol>
+  <li>Simple Commands</li>
+  <li>Simple Calculations</li>
+  <li>Data Types, Variables</li>
+  <li>Simple Conditional Statements	</li>
+  <li>Complex Conditional Statements</li>
+  <li>For Loop</li>
+  <li>While Loop</li>
+  <li>Nested Loops</li>
+  <li>Methods</li>
+  <li>Arrays</li>
+  <li>Lists</li>
+  <li>Unit Testing - Methods</li>
+  <li>Unit Testing - Arrays and Lists</li>
+</ol>
 
-01. Simple Commands - Exercise
-02. Simple Calculations
-03. Data Types, Variables
-04. Simple Conditional Statements		
-05. Complex Conditional Statements
-06. For Loop
-07. While Loop
-08. Nested Loops
-09. Methods
-10. Arrays
-11. Lists
-12. Unit Testing - Methods
-13. Unit Testing - Arrays and Lists
-14. Exam Preparation
